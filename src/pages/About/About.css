@@ -1,0 +1,11 @@
+@media (min-width: 800px) {
+    .about-content {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .about-title {
+        margin-top: 0;
+    }
+    .about-img img {
+        margin-left: 0;
+    }
+}
